@@ -1,12 +1,15 @@
 ## Usage
   ### Display Results for a Polling Unit
   File: index1.php
+  
   Description: Displays the results of a specific polling unit selected from a dropdown menu.
   ### Display Summed Total Results for an LGA
   File: Ouestion 2_Interface.php
+  
   Description: Displays the summed total results for all polling units under a selected LGA.
   ### Create a New Polling Unit
   File: new_polling_unit.php
+  
   Description: Provides a form to create a new polling unit and store results for multiple parties.
   
 ## JavaScript Files
