@@ -11,6 +11,7 @@
   
 ## JavaScript Files
   get_wards.php: Fetches wards based on the selected LGA.
+  
   save_results.php: Handles form submission and stores the new polling unit results.
   
 ## Database Schema
