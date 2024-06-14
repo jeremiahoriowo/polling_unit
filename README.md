@@ -16,14 +16,21 @@
   
 ## Database Schema
   polling_unit: Stores details about each polling unit.
+  
   announced_pu_results: Stores the results of each polling unit.
+  
   lga: Stores details about each Local Government Area.
+  
   ward: Stores details about each ward.
 
 ## Files
   Main Files
   index1.php: Displays individual polling unit results.
+  
   Ouestion 2_Interface.php: Displays summed total results for an LGA.
+  
   new_polling_unit.php: Form for creating a new polling unit.
+  
   save_polling_unit.php: Script to save new polling unit results.
+  
   get_wards.php: Fetches wards based on the selected LGA.
