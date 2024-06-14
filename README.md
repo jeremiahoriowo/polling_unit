@@ -1,5 +1,3 @@
-# polling_unit
-
 ## Usage
   ### Display Results for a Polling Unit
   File: index1.php
